@@ -1,1 +1,4 @@
-TinDog Starting Files
+---
+permalink: /404.html
+---
+#TinDog
